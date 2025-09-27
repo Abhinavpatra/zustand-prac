@@ -1,7 +1,6 @@
 Under the hood, Zustand uses `useSyncExternalStore`.
-Not there
 
-- [x] thunk middleware, async calls zustand
+We DO NOT NEED, these concepts- [x] thunk middleware, async calls zustand
 
 https://medium.com/@ignatovich.dm/managing-react-state-with-zustand-4e4d6bb50722
 
